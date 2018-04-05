@@ -1,0 +1,17 @@
+{
+  "helloWorld": "Welcome {{name}} to our localized app!",
+  "CHECKIN": "Check in",
+  "ADD_ITINERARY": "Add Itinerary",
+  "PICTURES": "Pictures",
+  "LIKE": "Like",
+  "LIKES": "Likes",
+  "COMMENT": "Comment",
+  "COMMENTS": "Comments",
+  "SHARE": "Share",
+  "SHARES": "Shares",
+  "ESTIMATED_COST": "Estimated Cost",
+  "REAL_COST": "Real Cost",
+  "PARTNERS": "Partners",
+  "CHECKED_IN": "Checked in",
+  "PLACES": "Checked in"
+}
