@@ -15,5 +15,7 @@
   "CHECKED_IN": "Checked in",
   "PLACES": "Checked in",
   "BEST_MOMENT": "Best moment",
-  "PHOTOS": "Photo"
+  "PHOTOS": "Photo",
+  "USERNAME":"Username",
+  "PASSWORD":"Password"
 }
