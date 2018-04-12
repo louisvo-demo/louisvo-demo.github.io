@@ -19,5 +19,6 @@
   "USERNAME":"Username",
   "PASSWORD":"Password",
   "LOGIN_WITH_FACEBOOK":"Login With Facebook",
-  "LOGIN_WITH_GOOGLE":"Login With Google Plus"
+  "LOGIN_WITH_GOOGLE":"Login With Google Plus",
+  "CANCEL":"Cancel"
 }
