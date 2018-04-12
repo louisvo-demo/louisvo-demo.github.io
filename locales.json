@@ -16,9 +16,10 @@
   "PLACES": "Checked in",
   "BEST_MOMENT": "Best moment",
   "PHOTOS": "Photo",
-  "USERNAME":"Username",
-  "PASSWORD":"Password",
-  "LOGIN_WITH_FACEBOOK":"Login With Facebook",
-  "LOGIN_WITH_GOOGLE":"Login With Google Plus",
-  "CANCEL":"Cancel"
+  "USERNAME": "Username",
+  "PASSWORD": "Password",
+  "LOGIN_WITH_FACEBOOK": "Login With Facebook",
+  "LOGIN_WITH_GOOGLE": "Login With Google Plus",
+  "BTN_CANCEL": "Cancel",
+  "BTN_LOGIN": "Login"
 }
