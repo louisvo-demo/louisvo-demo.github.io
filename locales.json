@@ -22,5 +22,6 @@
   "LOGIN_WITH_GOOGLE": "Login With Google Plus",
   "BTN_CANCEL": "Cancel",
   "BTN_LOGIN": "Login ",
-  "SHARE_SOMETHING": "Share something"
+  "SHARE_SOMETHING": "Share something",
+  "TYPE_SOMETHING": "Type something"
 }
