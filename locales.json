@@ -25,5 +25,6 @@
   "SHARE_SOMETHING": "Share something",
   "TYPE_SOMETHING": "Type something",
   "VIEW_SCHEDULE": "View Schedule",
-  "CREATE_PLAN": "Create Plan"
+  "CREATE_PLAN": "Create Plan",
+  "OPEN": "Open"
 }
