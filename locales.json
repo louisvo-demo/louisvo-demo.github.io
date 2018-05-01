@@ -26,5 +26,9 @@
   "TYPE_SOMETHING": "Type something",
   "VIEW_SCHEDULE": "View Schedule",
   "CREATE_PLAN": "Create Plan",
-  "OPEN": "Open"
+  "OPEN": "Open",
+  "PHONE": "Phone",
+  "WEBSITE": "Website",
+  "PRICE": "Price",
+  "ADDRESS": "Address"
 }
