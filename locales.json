@@ -30,5 +30,6 @@
   "PHONE": "Phone",
   "WEBSITE": "Website",
   "PRICE": "Price",
-  "ADDRESS": "Address"
+  "ADDRESS": "Address",
+  "RATING": "Rating"
 }
