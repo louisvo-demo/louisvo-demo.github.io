@@ -31,5 +31,7 @@
   "WEBSITE": "Website",
   "PRICE": "Price",
   "ADDRESS": "Address",
-  "RATING": "Rating"
+  "RATING": "Rating",
+  "REPLY": "Reply",
+  "REPLIES": "Replies"
 }
