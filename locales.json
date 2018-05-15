@@ -34,5 +34,8 @@
   "RATING": "Rating",
   "REPLY": "Reply",
   "REPLIES": "Replies",
-  "REVIEWS": "Reviews"
+  "REVIEWS": "Reviews",
+  "FOLLOWING": "Following",
+  "GROUPS": "Groups",
+  "STRANGERS": "Strangers"
 }
